@@ -12,6 +12,7 @@ public class SharedData
 		this.array = array;
 		this.b = b;
 	}
+	//
 
 	public boolean[] getWinArray() 
 	{
